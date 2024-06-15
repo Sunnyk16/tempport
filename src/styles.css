@@ -33,17 +33,20 @@ section.padding {
   padding: 5rem 0;
 }
 
-section img.background {
+ section img.background {
   height: 100%;
+  margin-top: 50px;
   left: 50%;
   object-fit: cover;
   pointer-events: none;
   position: absolute;
   top: 0;
   transform: translate(-50%, 0);
-  width: 100vmax;
+  width: 100%;
   z-index: -1;
 }
+
+
 
 h1 {
   font-family: "Cormorant Garamond", serif;
