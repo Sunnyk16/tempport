@@ -24,6 +24,7 @@ import image from "../images/photo.jpg";
 
 const imageAltText = "";
 
+
 const Home = ({ name, title }) => {
   return (
     <section id="home" className="min-height">
