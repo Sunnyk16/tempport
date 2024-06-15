@@ -43,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "Experienced full stack developer proficient in creating robust web applications with expertise in both front-end and back-end technologies.";
+  "I'm a dedicated full stack developer skilled in React.js, Node.js, and MongoDB. Passionate about creating seamless web experiences, my portfolio includes projects like Aniwatch and Coffee Shop. Experienced in frontend and backend development, I thrive in collaborative environments and am committed to continuous learning.";
 
 const About = () => {
   return (
